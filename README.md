@@ -1,0 +1,2 @@
+# nandu
+setting up git
